@@ -23,7 +23,7 @@ A fully responsive landing page for **Omnifood**, a fictional AI-powered food de
 
 ## 🔗 Demo
 
-> Open `index.html` directly in your browser or [host on GitHub Pages](https://pages.github.com/) to preview live.
+> hosted on GitHub Pages [click here](https://saipawan01.github.io/Omnifood-page/) to preview live.
 
 ---
 
@@ -33,7 +33,7 @@ A fully responsive landing page for **Omnifood**, a fictional AI-powered food de
 - **CSS3**
 - **Flexbox & CSS Grid**
 - **Media Queries**
-- **Google Fonts** ([Rubik](https://fonts.google.com/specimen/Rubik))
+- **Google Fonts**
 - **Ionicons** CDN
 
 ---
